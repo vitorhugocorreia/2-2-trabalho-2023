@@ -28,11 +28,11 @@
         margin-bottom: 0.5em;
     }
 
-.card__botões {
+.card__botoes {
         display: flex;
         justify-content: space-between;
     }
-.botões {
+.botoes {
         display: flex;
     }
 
