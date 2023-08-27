@@ -44,19 +44,19 @@
         padding: 1em;
     }   
 
-.descrição__titulo {
+.descricao__titulo {
         color: var(--laranja);
         font-weight: 700;
     } 
     
-.descrição__titulo-livro {
+.descricao__titulo-livro {
         color: var(--azul);
         font-size: 18px;
         font-weight: 700;
         margin: 0.5em 0;
     } 
     
-.descrição__texto {
+.descricao__texto {
         font-size: 14px;
     }
     
